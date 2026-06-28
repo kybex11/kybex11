@@ -1,5 +1,3 @@
-<p align="center"><img src="./eyes.webp" width="645px"/></p>
-
 <h1 align="center">I'm evelentdev.</h1>
 
 Fullstack-Developer, 3D-графика, математик, инженер, архитектор и GTA-разработчик.\

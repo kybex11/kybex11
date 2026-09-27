@@ -1,8 +1,3 @@
-<h1 align="center">I'm evelentdev.</h1>
-
-Fullstack-Developer, 3D-графика, математик, инженер, архитектор и GTA-разработчик.\
-В IT с 2021 года.
-
 <a href="https://t.me/evelentdev">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>

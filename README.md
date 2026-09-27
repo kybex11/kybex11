@@ -121,12 +121,8 @@ My main stack:
 <img src="https://img.shields.io/badge/3D_Modelling-FF6F00?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/3D_Graphics-4CAF50?style=for-the-badge&logoColor=white"/>
 
-3D-моделлер · 3D-график · Девелопер
+3D-моделлер · Девелопер
 
 ---
 
 ### Engineering & Architecture
-
-<img src="https://img.shields.io/badge/Математик-2196F3?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Инженер-607D8B?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Архитектор-9C27B0?style=for-the-badge&logoColor=white"/>
